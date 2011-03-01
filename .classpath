@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="C:/SHEFFIELD-COM/COM6780-Darwin/jdom.jar"/>
+	<classpathentry kind="lib" path="C:/SHEFFIELD-COM/COM6050-Java_and_UML/eclipse/plugins/castor-1.3.1-xml.jar"/>
+	<classpathentry kind="lib" path="C:/SHEFFIELD-COM/COM6050-Java_and_UML/eclipse/plugins/castor-1.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/SHEFFIELD-COM/COM6050-Java_and_UML/eclipse/plugins/castor-1.3.1-anttasks.jar"/>
+	<classpathentry kind="lib" path="C:/SHEFFIELD-COM/COM6050-Java_and_UML/eclipse/plugins/castor-1.3.1-codegen.jar"/>
+	<classpathentry kind="lib" path="C:/SHEFFIELD-COM/COM6050-Java_and_UML/eclipse/plugins/castor-1.3.1-core.jar"/>
+	<classpathentry kind="lib" path="C:/SHEFFIELD-COM/COM6050-Java_and_UML/eclipse/plugins/castor-1.3.1-ddlgen.jar"/>
+	<classpathentry kind="lib" path="C:/SHEFFIELD-COM/COM6050-Java_and_UML/eclipse/plugins/castor-1.3.1-jdo.jar"/>
+	<classpathentry kind="lib" path="C:/SHEFFIELD-COM/COM6050-Java_and_UML/eclipse/plugins/castor-1.3.1-xml-schema.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

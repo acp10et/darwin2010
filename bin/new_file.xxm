@@ -1,0 +1,7 @@
+<xxm>
+<state name="State A" x="75" y="70" id="5a394e9557e4b3ea-f135e89d9a75883a" file ="" function="" ></state>
+<state name="State B" x="301" y="53" id="47cea16339db1df-930c3b5edc5e946c" file ="" function="" ></state>
+<state name="State C" x="132" y="225" id="907891adf1de582a-bcc83d4bdda38b58" file ="" function="" ></state>
+<function name="valid" start="5a394e9557e4b3ea-f135e89d9a75883a" end="47cea16339db1df-930c3b5edc5e946c" id="966cd89d97355380-3fb64364728ae72d" file ="" function="" ></function>
+<function name="invalid" start="5a394e9557e4b3ea-f135e89d9a75883a" end="907891adf1de582a-bcc83d4bdda38b58" id="f31fd5cc646ff440-ecf7bde03aad7e47" file ="" function="" ></function>
+</xxm>
